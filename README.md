@@ -2,7 +2,7 @@
 
 About
 =====
-This Git repo is sponsored by the [Hack My Life] (https://meetup.com/hack-my-life/) meetup group of Richardson, TX. Special thanks also goes out the slack community of [RemoteCoder.net] (http://www.remotecoder.net) for their support. 
+This Git repo is sponsored by the [Hack My Life](https://meetup.com/hack-my-life/) meetup group of Richardson, TX. Special thanks also goes out the slack community of [RemoteCoder.net](http://www.remotecoder.net) for their support. 
 
 This project's aim is mung a dataset consisting of corporate information and US Census data (specifically in relation to population by zip code). Once our new feature is created we will use KNN to create three clusters of the data. These will then be displayed on a map of North Texas. 
 
