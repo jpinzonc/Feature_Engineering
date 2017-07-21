@@ -25,4 +25,4 @@ After companies have been sorted into one of three clusters, we will then be map
 
 How to Run
 ============
-<python file yet to be created>
+Python file yet to be created.
