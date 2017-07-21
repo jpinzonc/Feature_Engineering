@@ -6,7 +6,7 @@ This Git repo is sponsored by the [Hack My Life](https://meetup.com/hack-my-life
 
 This project's aim is mung a dataset consisting of corporate information and US Census data (specifically in relation to population by zip code). Once our new feature is created we will use KNN to create three clusters of the data. These will then be displayed on a map of North Texas. 
 
-The US Census population dataset can be downloaded via the following link [Population Data](https://catalog.data.gov/dataset/2010-census-populations-by-zip-code/resource/2f420e98-e3f8-4777-9a83-ce1fdd00e7b4).
+The US Census population dataset can be downloaded via the following link [Population Data](https://blog.splitwise.com/2013/09/18/the-2010-us-census-population-by-zip-code-totally-free/). We go ahead and manually truncate the name of the population data file to '2010_Census_Population.csv'
 
 Dependencies
 ============
@@ -25,4 +25,4 @@ After companies have been sorted into one of three clusters, we will then be map
 
 How to Run
 ============
-Python file yet to be created.
+feature.py
